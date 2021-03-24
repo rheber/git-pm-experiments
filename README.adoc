@@ -1,0 +1,9 @@
+== Git Experiments
+
+This is a repo where I try a few technologies related to version control.
+
+Technologies used in this repo:
+
+=== https://github.com/npryce/pottery[Pottery]
+
+Install pottery, then run `pottery show` to see sherds.
