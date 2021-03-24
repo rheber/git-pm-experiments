@@ -1,13 +1,11 @@
-== Git Experiments
+== Git Project Management Experiments
 
 This is a repo where I try a few technologies related to managing projects by maintaining files within the repo.
 
 Technologies used in this repo:
 
-=== https://github.com/npryce/pottery[Pottery]
+* https://github.com/npryce/pottery[Pottery]
 
-Install pottery, then run `pottery show` to see sherds.
+* https://github.com/npryce/adr-tools[ADR-Tools]
 
-=== https://github.com/npryce/adr-tools[ADR-Tools]
-
-ADRs are in the docs folder.
+* https://github.com/npryce/deft[Deft]
