@@ -9,3 +9,5 @@ Technologies used in this repo:
 * https://github.com/npryce/adr-tools[ADR-Tools]
 
 * https://github.com/npryce/deft[Deft]
+
+* https://github.com/google/git-appraise[Git Appraise]
