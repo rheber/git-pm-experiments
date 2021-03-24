@@ -11,3 +11,7 @@ Technologies used in this repo:
 * https://github.com/npryce/deft[Deft]
 
 * https://github.com/google/git-appraise[Git Appraise]
+
+To try:
+
+* https://github.com/MichaelMure/git-bug[Git Bug]
